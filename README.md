@@ -1,2 +1,2 @@
 # Juice-Cleans
-Juice Cleans baby!!! Woo!!! Woo!!! Juice Cleans!!! Woo!!!
+Made to be basic robotics firmware for students in similar grade levels (senior/junior year of high school)
